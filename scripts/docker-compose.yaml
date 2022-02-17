@@ -1,0 +1,7 @@
+version: '3.2'
+services:
+  redis: 
+    image: redis
+    network_mode: bridge
+    ports:
+      - 6379:6379
