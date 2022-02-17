@@ -1,0 +1,10 @@
+{
+    "resource": [{
+        "local_file": [{
+            "file": [{
+                "content": "this is the content via json",
+                "filename": "testdir/foo.bar"
+            }]
+        }]
+    }]
+}
